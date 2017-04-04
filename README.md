@@ -1,6 +1,6 @@
 # Redirects generator
 
-Extract the three columns **without headers** from the excel sheet to a comma separated CSV. It should look like this:
+Extract the three columns (Source URL, Source URL Status,Destination URL) **without headers** from the excel sheet to a comma separated CSV. It should look like this:
 
 ```
 http://www.alamo.no/Content/1665/no/EmailProgramme/,301,https://www.alamo.no/
